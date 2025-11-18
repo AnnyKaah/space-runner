@@ -1,6 +1,6 @@
 # 🚀 Space Runner
 
-**[➡️ JOGUE AGORA ⬅️](https://seu-usuario.github.io/space-runner/)** *(substitua pelo seu link)*
+**[➡️ JOGUE AGORA ⬅️](https://AnnyKaah.github.io/space-runner/)** 
 
 ![Gameplay Demo](gameplay_demo.gif)
 
@@ -49,7 +49,7 @@ Como este é um projeto de JavaScript puro, você não precisa de nenhuma ferram
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/AnnyKaah/space-runner
     ```
 
 2.  **Navegue até a pasta do projeto:**
