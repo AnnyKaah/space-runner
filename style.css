@@ -1,0 +1,21 @@
+body {
+    background-color: #000020; /* Azul bem escuro, quase preto */
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 100vh;
+}
+
+h1 {
+    text-shadow: 0 0 10px #00ffff; /* Efeito neon */
+}
+
+canvas {
+    background-color: #000;
+    border: 2px solid #00ffff; /* Borda neon */
+    box-shadow: 0 0 20px #00ffff;
+}
