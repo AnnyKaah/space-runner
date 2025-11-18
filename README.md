@@ -1,8 +1,12 @@
+<div align="center">
+    
 # 🚀 Space Runner
 
 **[➡️ JOGUE AGORA ⬅️](https://AnnyKaah.github.io/space-runner/)** 
 
-![Gameplay Demo](gameplay_demo.gif)
+![Gameplay Demo](/assets/gameplay_demo.gif)
+
+</div>
 
 Um jogo de nave estilo arcade "endless runner" construído com HTML5 Canvas e JavaScript puro. Desvie de asteroides, colete power-ups e lute pela maior pontuação em uma jornada infinita pelo espaço!
 
