@@ -1,21 +1,18 @@
 body {
-    background-color: #000020; /* Azul bem escuro, quase preto */
+    background-color: #1a1a1a; /* Um fundo escuro para destacar o jogo */
     color: #ffffff;
     font-family: 'Courier New', Courier, monospace;
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
     margin: 0;
     height: 100vh;
-}
-
-h1 {
-    text-shadow: 0 0 10px #00ffff; /* Efeito neon */
+    overflow: hidden; /* Esconde barras de rolagem */
 }
 
 canvas {
     background-color: #000;
-    border: 2px solid #00ffff; /* Borda neon */
-    box-shadow: 0 0 20px #00ffff;
+    border: 3px solid #4a4a4a; /* Uma borda sutil */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Um brilho para dar profundidade */
+    cursor: pointer;
 }
